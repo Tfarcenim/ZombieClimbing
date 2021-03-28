@@ -2,7 +2,7 @@
   "required": true,
   "package": "tfar.zombieclimbing.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "examplemod.refmap.json",
+  "refmap": "zombieclimbing.refmap.json",
   "mixins": [
     "ZombieEntityMixin"
   ],
